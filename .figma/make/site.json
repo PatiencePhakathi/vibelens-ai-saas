@@ -1,0 +1,10 @@
+{
+  "description": "AI-powered platform that transforms customer feedback into clear sentiment analysis, visual insights, and actionable business recommendations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
